@@ -1,5 +1,8 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/GearHub.Api/GearHub.Api.csproj" />
+    <Project Path="src/GearHub.Application/GearHub.Application.csproj" />
+    <Project Path="src/GearHub.Domain/GearHub.Domain.csproj" />
+    <Project Path="src/GearHub.Infrastructure/GearHub.Infrastructure.csproj" />
   </Folder>
 </Solution>
